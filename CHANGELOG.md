@@ -59,6 +59,7 @@ All notable changes to this project will be documented in this file.
 - Fix bug in Rootcheck for Windows that searches for keys in 32-bit mode only. ([#566](https://github.com/wazuh/wazuh/pull/566))
 - Prevent command injection in Agentless daemon. ([#600](https://github.com/wazuh/wazuh/pull/600))
 - Fix bug with oscap that cause many files in the folder tmp at an agent ([#732](https://github.com/wazuh/wazuh/pull/732))
+- Alert when unmerge files fails on agent. ([#731](https://github.com/wazuh/wazuh/pull/731))
 
 ### Removed
 
